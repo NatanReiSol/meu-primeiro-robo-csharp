@@ -1,0 +1,14 @@
+C:\Users\THUIZINHA\Desktop\Robo\bin\Debug\net10.0\Robo.exe
+C:\Users\THUIZINHA\Desktop\Robo\bin\Debug\net10.0\Robo.deps.json
+C:\Users\THUIZINHA\Desktop\Robo\bin\Debug\net10.0\Robo.runtimeconfig.json
+C:\Users\THUIZINHA\Desktop\Robo\bin\Debug\net10.0\Robo.dll
+C:\Users\THUIZINHA\Desktop\Robo\bin\Debug\net10.0\Robo.pdb
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.AssemblyInfoInputs.cache
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.AssemblyInfo.cs
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.csproj.CoreCompileInputs.cache
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.dll
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\refint\Robo.dll
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.pdb
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\Robo.genruntimeconfig.cache
+C:\Users\THUIZINHA\Desktop\Robo\obj\Debug\net10.0\ref\Robo.dll
